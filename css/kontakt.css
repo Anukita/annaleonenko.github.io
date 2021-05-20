@@ -1,0 +1,146 @@
+ body{
+	font-family: Comfortaa;
+	padding: 0;
+	margin: 0;
+}
+
+.container{
+	width: 1200px;
+	margin: 0 auto;
+}
+
+.tx{
+font-family: Comfortaa;
+font-style: normal;
+font-weight: 300;
+font-size: 14px;
+position: absolute;
+top: 10px;
+letter-spacing: 0.3em;
+}
+
+#menu1{
+right: 500px;
+}
+#menu2{
+right: 410px;
+}
+#menu3{
+text-decoration-line: underline;
+right: 250px;
+}
+
+.menu a {
+	color:#000;
+text-decoration: none;
+transition: .5s linear;
+padding: 1em;
+}
+.menu a:hover {color:#FD97A7;}
+.menu{
+border-bottom: 0.5px double #FFCAD2;
+background: #FFF;
+height: 60px;
+}
+
+.header {
+height: 100px;
+}
+
+.logo{
+	margin-left: 70px;
+}
+
+#kon{
+	position: relative;
+}
+
+img{
+	position: absolute;
+}
+.one{
+left: 654px;
+top: 38px;
+}
+.two{
+left: 654px;
+top: 374px;
+}
+
+.three{
+left: 654px;
+top: 506px;	
+}
+
+.text{
+
+font-family: Comfortaa;
+font-style: normal;
+font-weight: 300;
+font-size: 12px;
+
+letter-spacing: 0.3em;
+}
+.t-one{
+position: absolute;
+width: 254px;
+height: 100px;
+left: 712px;
+top: 77px;
+line-height: 18px;	
+}
+.tt-one{
+position: absolute;
+width: 254px;
+height: 99px;
+left: 749px;
+top: 172px;
+line-height: 34px;
+}
+.k-one{
+position: absolute;
+left: 712px;
+top: 189px;
+}
+.k-two{
+position: absolute;
+left: 712px;
+top: 223px;
+}
+.k-three{
+position: absolute;
+left: 712px;
+top: 257px;	
+}
+.t-two{
+position: absolute;
+width: 228px;
+height: 53px;
+left: 712px;
+top: 391px;
+line-height: 18px;
+}
+.t-three{
+position: absolute;
+width: 263px;
+height: 54px;
+left: 712px;
+top: 523px;
+line-height: 18px;
+}
+
+
+
+
+
+
+.credits{
+	text-align: center;
+	font-size: 10px;
+	color: #000;
+}
+.footer {
+	margin-top: 700px;
+	background: #FEE7D5;
+	padding: 20px 0px;
+}
