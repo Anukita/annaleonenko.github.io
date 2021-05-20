@@ -1,0 +1,105 @@
+ body{
+	font-family: Comfortaa;
+	padding: 0;
+	margin: 0;
+}
+.container{
+	width: 1200px;
+	margin: 0 auto;
+
+}
+
+.tx{
+font-family: Comfortaa;
+font-style: normal;
+font-weight: 300;
+font-size: 14px;
+position: absolute;
+top: 10px;
+letter-spacing: 0.3em;
+}
+
+#menu1{
+right: 500px;
+}
+#menu2{
+text-decoration-line: underline;
+right: 410px;
+}
+#menu3{
+right: 250px;
+}
+
+.menu a {
+color:#000;
+text-decoration: none;
+  transition: .5s linear;
+  padding: 1em;
+}
+.menu a:hover {color:#FD97A7;}
+.menu{
+border-bottom: 0.5px double  #FFCAD2;
+background: #FFF;
+height: 60px;
+}
+
+.header {
+height: 150px;
+}
+
+.logo{
+	margin-left: 40px;
+
+}
+
+.obo-mne p{
+	text-indent: 20px;
+}
+.obo-mne{
+	background: #FFFAF6;
+	padding-top: 10px;
+	padding-bottom: 10px;
+
+}
+#obomne{
+margin-bottom: 30px;
+}
+
+.text{
+	width: 85%;
+/*	margin-left: 50px;*/
+}
+.zag1{
+padding-left: 50px;
+font-family: Comfortaa;
+font-weight: 300;
+font-size: 20px;
+letter-spacing: 0.2em;
+border-bottom: 1px solid #FD97A7;
+width: 400px;
+margin-left: 70px;
+}
+
+
+.photo-one{
+position: absolute;
+width: 460px;
+height: 472px;
+left: 920px;
+top: 120px;
+}
+
+.credits{
+	text-align: center;
+	font-size: 10px;
+	color: #000;
+}
+
+.footer {
+	position: fixed; /* Фиксированное положение */
+    width: 100%;
+    left: 0; bottom: 0;
+	margin-top: 70px;
+	background: #FEE7D5;
+	padding: 20px 0px;
+}
